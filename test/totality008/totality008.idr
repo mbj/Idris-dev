@@ -1,4 +1,4 @@
- data T : Type -> Type where
+data T : Type -> Type where
   c1 : T Nat
   c2 : T (T Nat)
 
